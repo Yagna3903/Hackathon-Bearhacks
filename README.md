@@ -104,6 +104,7 @@ npm run dev
 
 ```
 OPENAI_API_KEY=your_api_key
+PERPLEXITY_API_KEY=your_api_key
 GITHUB_TOKEN=your_token
 DATABASE_URL=your_database_url
 ```
