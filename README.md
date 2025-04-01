@@ -1,4 +1,4 @@
-# AI Personal Branding Assistant
+# CareerCraftAI
 
 A full-stack web application that helps users optimize their professional presence through AI-powered tools.
 
